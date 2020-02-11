@@ -1,0 +1,38 @@
+/*loc_color.css*/
+h1 {
+	font: italic 300% fantasy;
+}
+h2 {
+	color: #000055;
+	font: italic 200% fantasy;
+}
+h4 {
+	color: #004000;
+	font: italic 100% fantasy;
+}
+.topnav {
+	background-color: #333333;
+	overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #000000;
+  color: white;
+}
+.location {
+	background-color: #D8D8D8;
+	overflow: hidden;
+}
